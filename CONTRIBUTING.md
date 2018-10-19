@@ -40,5 +40,5 @@ After [adding your own page in the **Students** page](https://github.com/rishabh
 - [Debashish Nayak](https://github.com/theindianotaku)
 - [Ansh Sachdeva](https://github.com/chaostools)
 - [Christopher Moura](https://github.com/christophermoura)
-- [VanshikaMittal07](https://github.com/VanshikaMittal07)
+- [Vanshika Mittal](https://github.com/VanshikaMittal07)
 - [Chahat Bansal](https://github.com/chahatbansal)
